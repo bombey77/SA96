@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SA96</string>
+    <string name="task1">tv1</string>
+    <string name="task2">tv2</string>
+    <string name="task3">tv3</string>
+    <string name="start">btnStart</string>
+</resources>
